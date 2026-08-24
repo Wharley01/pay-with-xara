@@ -22,7 +22,7 @@
 defined( 'ABSPATH' ) || exit;
 
 define( 'XARA_WC_VERSION', '1.0.2' );
-define( 'XARA_WC_GITHUB_REPO', 'Wharley01/pay-with-xara' );
+define( 'XARA_WC_GITHUB_REPO', 'Wharley01/wp-pay-with-xara' );
 define( 'XARA_WC_PLUGIN_FILE', __FILE__ );
 define( 'XARA_WC_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'XARA_WC_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
